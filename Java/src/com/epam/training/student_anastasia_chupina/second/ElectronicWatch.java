@@ -7,11 +7,11 @@ public class ElectronicWatch {
         Scanner scanner = new Scanner(System.in);
         int seconds = scanner.nextInt();
         int hours = seconds/3600;
-        int resultHours = (hours<24) ? hours:0;
         int minutes = seconds/60-hours*60;
         seconds = seconds-hours*3600-minutes*60;
+        hours = hours%24;
         String addZeroToMinutes = (minutes>=10) ? "":"0";
         String addZeroToSeconds = (seconds>=10) ? "":"0";
-        System.out.println(resultHours + ":" + addZeroToMinutes + minutes + ":" + addZeroToSeconds + seconds);
+        System.out.println(hours + ":" + addZeroToMinutes + minutes + ":" + addZeroToSeconds + seconds);
     }
 }

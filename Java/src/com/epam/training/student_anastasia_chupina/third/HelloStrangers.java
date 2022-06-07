@@ -15,7 +15,7 @@ public class HelloStrangers {
                 i++;
                 String name = Scanner.nextLine();
                 if (i == 1) {
-                    
+
                 } else {
                     System.out.println("Hello, " + name);
                 }

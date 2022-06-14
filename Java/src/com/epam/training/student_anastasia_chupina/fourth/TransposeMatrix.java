@@ -19,7 +19,9 @@ public class TransposeMatrix {
 
         // Get a result of your code
 
-        int[][] matrix = {{1}
+        int[][] matrix = {
+                {1, 2, 5} ,
+                {-13, 7, 8}
                 };
 
         int[][] result = transpose(matrix);

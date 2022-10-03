@@ -1,4 +1,4 @@
-package com.epam.training.student_anastasia_chupina.eighth.words;
+package com.epam.training.student_anastasia_chupina.ninth.words;
 import java.util.StringJoiner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

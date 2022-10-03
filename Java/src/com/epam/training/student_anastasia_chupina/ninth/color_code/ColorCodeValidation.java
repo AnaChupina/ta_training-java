@@ -1,4 +1,4 @@
-package com.epam.training.student_anastasia_chupina.eighth.color_code;
+package com.epam.training.student_anastasia_chupina.ninth.color_code;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

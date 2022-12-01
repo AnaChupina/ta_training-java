@@ -1,4 +1,4 @@
-package com.epam.training.student_anastasiia_chupina.third;
+package com.epam.training.student_anastasiia_chupina.third.max_value_in_sequence;
 import java.util.Scanner;
 
 public class FindMaxInSeq {

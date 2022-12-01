@@ -1,4 +1,4 @@
-package com.epam.training.student_anastasiia_chupina.second;
+package com.epam.training.student_anastasiia_chupina.second.electronic_watch.main;
 
 import java.util.Scanner;
 

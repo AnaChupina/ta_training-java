@@ -1,4 +1,4 @@
-package com.epam.training.student_anastasiia_chupina.third;
+package com.epam.training.student_anastasiia_chupina.third.quadratic_equation;
 
 import java.util.Locale;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package com.epam.training.student_anastasiia_chupina.fourth;
+package com.epam.training.student_anastasiia_chupina.fourth.local_maxima_remove;
 
 import java.util.Arrays;
 

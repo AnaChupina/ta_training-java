@@ -1,7 +1,7 @@
 package com.epam.training.student_anastasiia_chupina.fifth.carousel;
 
 public class CarouselRun {
-    int j=0;
+int j=0;
     int nextReturn;
     int [] carousel;
     public CarouselRun(final int [] carousel) {
@@ -11,7 +11,7 @@ public class CarouselRun {
         if (isFinished()){
             return -1;
         }
-        for (; ; j=(j+1)%carousel.length) {
+        for (; j < carousel.length; j=(j+1)%carousel.length) {
             if (carousel[j] != 0) {
                 nextReturn = carousel[j];
                 carousel[j]--;
@@ -19,6 +19,8 @@ public class CarouselRun {
                 return nextReturn;
             }
         }
+        j=0;
+        return -1;
     }
 
     public boolean isFinished() {

@@ -22,11 +22,11 @@ public class DecrementingCarousel {
     }
 
     public CarouselRun run(){
-        if (runNumber == 0){
-            runNumber = 1;
-            return new CarouselRun(carousel);
-        } else {
-            return null;
-        }
+       if (runNumber == 0){
+           runNumber = 1;
+           return new CarouselRun(carousel);
+       } else {
+           return null;
+       }
     }
 }

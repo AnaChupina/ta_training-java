@@ -1,4 +1,4 @@
-package com.epam.training.student_anastasiia_chupina.fourth;
+package com.epam.training.student_anastasiia_chupina.fourth.spiral;
 
 public class Spiral {
     public static void main(String[] args) {

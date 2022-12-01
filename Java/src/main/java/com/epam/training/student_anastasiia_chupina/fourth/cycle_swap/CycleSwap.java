@@ -1,4 +1,4 @@
-package com.epam.training.student_anastasiia_chupina.fourth;
+package com.epam.training.student_anastasiia_chupina.fourth.cycle_swap;
 
 
 import java.util.Arrays;

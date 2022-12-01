@@ -1,4 +1,4 @@
-package com.epam.training.student_anastasiia_chupina.fourth;
+package com.epam.training.student_anastasiia_chupina.fourth.matrices_multiplication;
 import java.util.Arrays;
 
 public class MultiplyMatrix {

@@ -1,4 +1,4 @@
-package com.epam.training.student_anastasiia_chupina.first;
+package com.epam.training.student_anastasiia_chupina.first.meet_a_stranger.main;
 
 import java.util.Scanner;
 

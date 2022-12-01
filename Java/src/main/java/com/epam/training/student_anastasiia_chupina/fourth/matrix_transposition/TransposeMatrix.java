@@ -1,4 +1,4 @@
-package com.epam.training.student_anastasiia_chupina.fourth;
+package com.epam.training.student_anastasiia_chupina.fourth.matrix_transposition;
 import java.util.Arrays;
 
 public class TransposeMatrix {

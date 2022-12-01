@@ -1,4 +1,4 @@
-package com.epam.training.student_anastasiia_chupina.third;
+package com.epam.training.student_anastasiia_chupina.third.pizza_split;
 
 import java.util.Scanner;
 

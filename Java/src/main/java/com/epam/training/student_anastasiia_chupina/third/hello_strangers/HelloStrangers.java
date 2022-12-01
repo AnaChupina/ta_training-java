@@ -1,4 +1,4 @@
-package com.epam.training.student_anastasiia_chupina.third;
+package com.epam.training.student_anastasiia_chupina.third.hello_strangers;
 
 import java.io.IOException;
 import java.util.Scanner;

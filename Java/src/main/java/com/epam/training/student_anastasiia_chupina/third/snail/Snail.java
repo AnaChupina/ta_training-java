@@ -1,4 +1,4 @@
-package com.epam.training.student_anastasiia_chupina.third;
+package com.epam.training.student_anastasiia_chupina.third.snail;
 
 import java.util.Scanner;
 

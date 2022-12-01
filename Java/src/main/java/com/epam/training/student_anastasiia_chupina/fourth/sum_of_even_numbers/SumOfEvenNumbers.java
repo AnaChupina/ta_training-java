@@ -1,4 +1,4 @@
-package com.epam.training.student_anastasiia_chupina.fourth;
+package com.epam.training.student_anastasiia_chupina.fourth.sum_of_even_numbers;
 
 public class SumOfEvenNumbers {
     public static void main(String[] args) {

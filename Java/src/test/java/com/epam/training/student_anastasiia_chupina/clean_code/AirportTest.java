@@ -4,8 +4,8 @@ import com.epam.training.student_anastasiia_chupina.clean_code.planes.Experiment
 import com.epam.training.student_anastasiia_chupina.clean_code.models.ClassificationLevel;
 import com.epam.training.student_anastasiia_chupina.clean_code.models.ExperimentalTypes;
 import com.epam.training.student_anastasiia_chupina.clean_code.models.MilitaryType;
-import org.junit.Assert;
-import org.junit.Test;
+import org.testng.Assert;
+import org.testng.annotations.Test;
 import com.epam.training.student_anastasiia_chupina.clean_code.planes.MilitaryPlane;
 import com.epam.training.student_anastasiia_chupina.clean_code.planes.PassengerPlane;
 import com.epam.training.student_anastasiia_chupina.clean_code.planes.Plane;
